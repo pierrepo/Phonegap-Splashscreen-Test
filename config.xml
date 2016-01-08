@@ -5,7 +5,7 @@
         version     = "1.1.2"
         versionCode = "10" >
         <!-- versionCode is optional and Android only -->
-        <preference name="phonegap-version" value="3.5.0" />
+        <preference name="phonegap-version" value="5.2.0" />
 
         <name>Phonegap Splash Screen test</name>
         <description>Splash Screen and Icon test</description>
@@ -13,7 +13,6 @@
         Jesse Monroy
         </author>
         <gap:platform name="android" />
-        <gap:platform name="ios" />
 
         <preference name="permissions" value="none"/>
         <!-- PHONEGAP Master Example: https://github.com/phonegap/phonegap-start/blob/master/www/config.xml -->

@@ -5,7 +5,6 @@
         version     = "2.0.0"
         versionCode = "10" >
         <!-- versionCode is optional and Android only -->
-        <preference name="phonegap-version" value="5.2.0" />
 
         <name>Phonegap Splash Screen test</name>
         <description>Splash Screen and Icon test</description>
